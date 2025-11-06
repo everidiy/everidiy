@@ -1,12 +1,12 @@
-# 👋 Привет, я [Ваше Имя]!
+# 🦔 Привет, я everidiy (или же просто Богдан) 🦔
 
-## 🚀 Обо мне
-- 💻 Full-stack разработчик
-- 🎯 Специализируюсь на JavaScript/TypeScript
-- 📚 Постоянно учусь новым технологиям
-- 💡 Люблю решать сложные задачи
+## 🛜 Обо мне 🛜
+- 🌐 Начинающий frontend-разработчик, однако рвусь в fullstack 🌐
+- </> Специализируюсь на самых разных технологиях, которые затрагивают веб-разработку </>
+- 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
+- 💡 Люблю решать сложные задачи 💡
 
-## 🛠 Технологии и инструменты
+## 🛠 Технологии и инструменты 🛠
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,18 +23,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📈 Статистика GitHub
+## 📈 Статистика GitHub 📈
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## 📫 Как со мной связаться
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Ваш LinkedIn](ссылка)
-- 🌐 Website: [Ваш сайт](ссылка)
+- 📧 Почта: davydovbogdan599@gmail.com 📧
+- 💼 Телеграмм: @everidiy 💼
+- 🖥️ Тгк: https://t.me/webcorepub 🖥️
+- 📞 Телефон: +7 953 073 29 68 📞
 
-## 🎯 Мои цели
+## 🎯 Мои цели до 1 января: 🎯
 - [ ] Изучить новую технологию
 - [ ] Участвовать в open-source проектах
 - [ ] Разработать собственный проект
