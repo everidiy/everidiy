@@ -15,7 +15,7 @@
 
 ## 📫 Как со мной связаться
 - 📧 Почта: davydovbogdan599@gmail.com 📧
-- 💼 ## [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/everidiy) 💼
+- 💼 Телеграмм: @everidiy 💼
 - 🖥️ Тгк: https://t.me/webcorepub 🖥️
 - 📞 Телефон: +7 953 073 29 68 📞
 
