@@ -23,6 +23,8 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF6B8B?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-FF5252?style=for-the-badge&logo=react-router&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📫 Связь 📫
 - 📧 Почта: davydovbogdan599@gmail.com 📧
