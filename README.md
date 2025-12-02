@@ -21,7 +21,7 @@
 ### ⚙️ Backend ⚙️
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-9C27B0?style=for-the-badge&logo=c-sharp&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 
 ### 📤 Deploy 📤
