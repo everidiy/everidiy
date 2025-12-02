@@ -1,6 +1,6 @@
 # 🦔 Привет, я everidiy (или же просто Богдан) 🦔
 
-## 💬 Обо мне 💬
+# 💬 Обо мне 💬
 - 🌐 Учусь фронтенду, однако рвусь в fullstack 🌐
 - </> Специализируюсь на самых разных технологиях, которые затрагивают веб-разработку </>
 - 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
@@ -18,37 +18,37 @@
 ![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 
-## ⚙️ Backend ⚙️
+### ⚙️ Backend ⚙️
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 
-## 📤 Deploy 📤
+### 📤 Deploy 📤
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 
-## 📦 Tools 📦
+### 📦 Tools 📦
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![Middle](https://img.shields.io/badge/Middle-yellow?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 
 
-## ⏳ В планах ⏳
+# ⏳ В планах ⏳
 
 ![Zustand](https://img.shields.io/badge/Zustand-8B4513?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF6B8B?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-FF5252?style=for-the-badge&logo=react-router&logoColor=white)
 
-## 📫 Связь 📫
+# 📫 Связь 📫
 - ✉️ Почта: davydovbogdan599@gmail.com ✉️
 - 🔗 Телеграмм: https://t.me/everidiy 🔗
 - 📢 Тгк: https://t.me/webcorepub 📢
 - 📞 Телефон: +7 953 073 29 68 📞
 - 🚀 Сайт: https://site-about-me-six.vercel.app/ 🚀 
 
-## 🎯 Цели до 1 января 🎯
+# 🎯 Цели до 1 января 🎯
 - [ ] Изучить Go и в целом понимание бэкенда для фронтендера
 - [ ] Создание собственного продукта
 - [ ] Создание собственного сайта
