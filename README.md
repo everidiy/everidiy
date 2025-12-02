@@ -1,13 +1,13 @@
 # 🦔 Привет, я everidiy (или же просто Богдан) 🦔
 
-# 💬 Обо мне 💬
+## 💬 Обо мне 💬
 - 🌐 Учусь фронтенду, однако рвусь в fullstack 🌐
 - </> Специализируюсь на самых разных технологиях, которые затрагивают веб-разработку </>
 - 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
 - 💡 Люблю решать сложные задачи 💡
 - 🖥️ Мой сайт: https://site-about-me-six.vercel.app/ 🖥️
 
-# 🛠 Стэк 🛠
+## 🛠 Stack 🛠
 
 ### 🎨 Frontend 🎨
 
@@ -34,14 +34,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)![Basic](https://img.shields.io/badge/Basic-green?style=for-the-badge)
 
-
-# ⏳ В планах ⏳
+### ⏳ В планах ⏳
 
 ![Zustand](https://img.shields.io/badge/Zustand-8B4513?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF6B8B?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-FF5252?style=for-the-badge&logo=react-router&logoColor=white)
 
-# 📫 Связь 📫
+## 📫 Связь 📫
 - ✉️ Почта: davydovbogdan599@gmail.com ✉️
 - 🔗 Телеграмм: https://t.me/everidiy 🔗
 - 📢 Тгк: https://t.me/webcorepub 📢
