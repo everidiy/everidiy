@@ -7,7 +7,7 @@
 - 💡 Люблю решать сложные задачи 💡
 - 🖥️ Мой сайт: https://site-about-me-six.vercel.app/ 🖥️
 - 🏝️ Моя игра: https://disk.yandex.ru/d/WsK8v-vyfZsD0w 🏝️
-- 🎭 Сайт игры: [В РАЗРАБОТКЕ! ПОКА ТОЛЬКО ГИТХАБ!] https://github.com/everidiy/Site-About-My-Game 🎭
+- 🎭 Сайт игры: https://zinland-wiki-site.vercel.app/ 🎭
 
 ## 🛠 Stack 🛠
 
