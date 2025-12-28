@@ -6,8 +6,7 @@
 - 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
 - 💡 Люблю решать сложные задачи 💡
 - 🖥️ Мой сайт: https://site-about-me-six.vercel.app/ 🖥️
-- 🏝️ Моя игра: https://disk.yandex.ru/d/WsK8v-vyfZsD0w 🏝️
-- 🎭 Сайт игры: https://zinland-wiki-site.vercel.app/ 🎭
+- 🏝️ Моя игра и её сайт: https://zinland-wiki-site.vercel.app/ 🏝️
 
 ## 🛠 Stack 🛠
 
