@@ -5,8 +5,14 @@
 - </> Специализируюсь на самых разных технологиях, которые затрагивают веб-разработку </>
 - 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
 - 💡 Люблю решать сложные задачи 💡
+
+
+## 🛠 Projects 🛠
+
 - 🖥️ Мой сайт: https://site-about-me-six.vercel.app/ 🖥️
+Репозиторий: https://github.com/everidiy/Site-About-Me
 - 🏝️ Моя игра и её сайт: https://zinland-wiki-site.vercel.app/ 🏝️
+Репозиторий: https://github.com/everidiy/Zinland-Wiki-Site
 
 ## 🛠 Stack 🛠
 
@@ -23,6 +29,7 @@
 
 ### ⚙️ Backend ⚙️
 
+![HTTP](https://img.shields.io/badge/HTTP-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-7F3FBF?style=for-the-badge&logo=csharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,8 +47,8 @@
 
 ### ⏳ В планах ⏳
 
-![Zustand](https://img.shields.io/badge/Zustand-8B4513?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF6B8B?style=for-the-badge&logo=reactquery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+
 
 ## 📫 Связь 📫
 - ✉️ Почта: davydovbogdan599@gmail.com ✉️
@@ -50,8 +57,11 @@
 - 📞 Телефон: +7 953 073 29 68 📞
 - 🚀 Сайт: https://site-about-me-six.vercel.app/ 🚀 
 
-# 🎯 Цели до 1 января 🎯
-- [ ] Изучить Go и в целом понимание бэкенда для фронтендера
+# 🎯 Цели до 1 марта 🎯
+- [ ] Изучение TypeScript/Next.js
+- [ ] Переписать сайты на TypeScript
+- [ ] Сделать парочку проектов на Next.js
+
+# ✔️ Выполненное ✔️
 - [x] Создание собственного продукта
 - [x] Создание собственного сайта
-- [ ] Изучение React/TypeScript
