@@ -6,8 +6,7 @@
 - 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
 - 💡 Люблю решать сложные задачи 💡
 
-
-## 🛠 Projects 🛠
+## 💼 Projects 💼
 
 - 🖥️ Мой сайт: https://site-about-me-six.vercel.app/ 🖥️
 Репозиторий: https://github.com/everidiy/Site-About-Me
