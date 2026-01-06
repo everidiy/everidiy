@@ -8,7 +8,7 @@
 
 ## 💼 Projects 💼
 
-- 🖥️ Мой сайт: https://site-about-me-six.vercel.app/ 🖥️
+- 🖥️ Мой сайт-био: https://site-about-me-six.vercel.app/ 🖥️
 Репозиторий: https://github.com/everidiy/Site-About-Me
 - 🏝️ Моя игра и её сайт: https://zinland-wiki-site.vercel.app/ 🏝️
 Репозиторий: https://github.com/everidiy/Zinland-Wiki-Site
