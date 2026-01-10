@@ -12,6 +12,7 @@
 Репозиторий: https://github.com/everidiy/Site-About-Me
 - 🏝️ Моя игра и её сайт: https://zinland-wiki-site.vercel.app/ 🏝️
 Репозиторий: https://github.com/everidiy/Zinland-Wiki-Site
+- 🌐 Моё расширение для продуктивности для Chrome: https://github.com/everidiy/Chrome-Extension-FocusUp 🌐
 
 ## 🛠 Stack 🛠
 
