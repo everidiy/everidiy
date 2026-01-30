@@ -18,7 +18,7 @@ GitHub: https://github.com/everidiy/Zinland-Wiki-Site
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-FF5252?style=for-the-badge&logo=react-router&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-FFD000?style=for-the-badge&logo=json&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![HTTP](https://img.shields.io/badge/HTTP-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -34,11 +34,11 @@ GitHub: https://github.com/everidiy/Zinland-Wiki-Site
 
 ### ⏳ In plans ⏳
 
-![Jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)
-![MobX](https://img.shields.io/badge/MobX-white?style=for-the-badge&logo=mobx&logoColor=E93C3C)
-![GraphQL](https://img.shields.io/badge/GraphQL-white?style=for-the-badge&logo=graphql&logoColor=E10098)
-![Zustand](https://img.shields.io/badge/Zustand-white?style=for-the-badge&logo=zustand&logoColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-E93C3C?style=for-the-badge&logo=mobx&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 📫 Сontact 📫
