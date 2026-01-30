@@ -37,8 +37,8 @@ GitHub: https://github.com/everidiy/Zinland-Wiki-Site
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-E93C3C?style=for-the-badge&logo=mobx&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-white?style=for-the-badge&logo=zustand&logoColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7F3FBF?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 📫 Сontact 📫
