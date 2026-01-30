@@ -1,18 +1,12 @@
-# 🦔 Привет, я everidiy (или же просто Богдан) 🦔
-
-## 💬 Обо мне 💬
-- 🌐 Учусь новому 🌐
-- </> Специализируюсь на самых разных технологиях, которые затрагивают веб-разработку </>
-- 🧩 Постоянно учусь новым технологиям, так как считаю это фактором роста 🧩
-- 💡 Люблю решать сложные задачи 💡
+# 🦔 Hi, I'm everidiy 🦔
 
 ## 💼 Projects 💼
 
-- 🖥️ Мой сайт-био: https://site-about-me-six.vercel.app/ 🖥️
-Репозиторий: https://github.com/everidiy/Site-About-Me
-- 🏝️ Моя игра и её сайт: https://zinland-wiki-site.vercel.app/ 🏝️
-Репозиторий: https://github.com/everidiy/Zinland-Wiki-Site
-- 🌐 Моё расширение для продуктивности для Chrome: https://github.com/everidiy/Chrome-Extension-FocusUp 🌐
+- 🖥️ My bio-site: https://site-about-me-six.vercel.app/ 🖥️
+GitHub: https://github.com/everidiy/Site-About-Me
+- 🏝️ My game and its site: https://zinland-wiki-site.vercel.app/ 🏝️
+GitHub: https://github.com/everidiy/Zinland-Wiki-Site
+- 🌐 My chrome extension for productivity: https://github.com/everidiy/Chrome-Extension-FocusUp 🌐
 
 ## 🛠 Stack 🛠
 
@@ -24,6 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-FF5252?style=for-the-badge&logo=react-router&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-FFD000?style=for-the-badge&logo=json&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 
 ![HTTP](https://img.shields.io/badge/HTTP-E34F26?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -37,13 +32,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### ⏳ В планах ⏳
+### ⏳ In plans ⏳
 
-![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=C21325)
+![MobX](https://img.shields.io/badge/MobX-white?style=for-the-badge&logo=mobx&logoColor=E93C3C)
+![GraphQL](https://img.shields.io/badge/GraphQL-white?style=for-the-badge&logo=graphql&logoColor=E10098)
+![Zustand](https://img.shields.io/badge/Zustand-white?style=for-the-badge&logo=zustand&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-white?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
 
-## 📫 Связь 📫
-- ✉️ Почта: davydovbogdan599@gmail.com ✉️
-- 🔗 Телеграмм: https://t.me/everidiy 🔗
-- 📢 Тгк: https://t.me/webcorepub 📢
-- 🚀 Сайт: https://site-about-me-six.vercel.app/ 🚀 
+## 📫 Сontact 📫
+- ✉️ Email: davydovbogdan599@gmail.com ✉️
+- 🔗 TG: https://t.me/everidiy 🔗
+- 📢 TG Channel: https://t.me/webcorepub 📢
+- 🚀 Bio-site: https://site-about-me-six.vercel.app/ 🚀 
