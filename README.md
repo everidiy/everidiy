@@ -1,38 +1,5 @@
 <h1 align="center">Hi, I'm everidiy</h1>
 
-<p align="center">
-  Developer focused on web development and currently exploring C#, Go, Python and SQL.
-</p>
-
-<h2 align="center">Projects</h2>
-
-<p align="center">
-  <a href="https://site-about-me-six.vercel.app/">
-    <img src="https://img.shields.io/badge/Bio--Site-0B0F0D?style=for-the-badge&logo=vercel&logoColor=0F5132" alt="Bio-Site">
-  </a>
-  <a href="https://github.com/everidiy/Site-About-Me">
-    <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=for-the-badge&logo=github&logoColor=0F5132" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://zinland-wiki-site.vercel.app/">
-    <img src="https://img.shields.io/badge/Zinland-0B0F0D?style=for-the-badge&logo=vercel&logoColor=0F5132" alt="Zinland">
-  </a>
-  <a href="https://github.com/everidiy/Zinland-Wiki-Site">
-    <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=for-the-badge&logo=github&logoColor=0F5132" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/everidiy/Chrome-Extension-FocusUp">
-    <img src="https://img.shields.io/badge/FocusUp-0B0F0D?style=for-the-badge&logo=googlechrome&logoColor=0F5132" alt="FocusUp">
-  </a>
-  <a href="https://github.com/everidiy/Chrome-Extension-FocusUp">
-    <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=for-the-badge&logo=github&logoColor=0F5132" alt="GitHub">
-  </a>
-</p>
-
 <h2 align="center">Stack</h2>
 
 <h3 align="center">Frontend</h3>
@@ -80,8 +47,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-0B0F0D?style=for-the-badge&logo=vercel&logoColor=0F5132">
 </p>
-
-<h2 align="center">In Progress</h2>
 
 <h3 align="center">Languages</h3>
 
