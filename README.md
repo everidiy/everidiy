@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/JWT-0B0F0D?style=flat-square&logo=jsonwebtokens&logoColor=00C853">
   <img src="https://img.shields.io/badge/HTTP-0B0F0D?style=flat-square&logo=http&logoColor=00C853">
   <img src="https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
   <img src="https://img.shields.io/badge/Chrome_Extension_API-0B0F0D?style=flat-square&logo=googlechrome&logoColor=00C853">
 </p>
 
 **Languages & Databases**
 <p>
   <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=csharp&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Go-0B0F0D?style=flat-square&logo=go&logoColor=00C853">
   <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
   <img src="https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853">
 </p>
