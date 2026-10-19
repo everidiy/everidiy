@@ -14,8 +14,6 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-0B0F0D?style=flat-square&logo=html5&logoColor=00C853">
   <img src="https://img.shields.io/badge/CSS3-0B0F0D?style=flat-square&logo=css3&logoColor=00C853">
-  <img src="https://img.shields.io/badge/JavaScript-0B0F0D?style=flat-square&logo=javascript&logoColor=00C853">
-  <img src="https://img.shields.io/badge/TypeScript-0B0F0D?style=flat-square&logo=typescript&logoColor=00C853">
   <img src="https://img.shields.io/badge/React-0B0F0D?style=flat-square&logo=react&logoColor=00C853">
   <img src="https://img.shields.io/badge/React_Router-0B0F0D?style=flat-square&logo=reactrouter&logoColor=00C853">
   <img src="https://img.shields.io/badge/React_Hook_Form-0B0F0D?style=flat-square&logo=reacthookform&logoColor=00C853">
@@ -25,13 +23,17 @@
   <img src="https://img.shields.io/badge/Bootstrap-0B0F0D?style=flat-square&logo=bootstrap&logoColor=00C853">
 </p>
 
-**Backend & APIs**
+**Backend**
 <p>
   <img src="https://img.shields.io/badge/JSON-0B0F0D?style=flat-square&logo=json&logoColor=00C853">
   <img src="https://img.shields.io/badge/JWT-0B0F0D?style=flat-square&logo=jsonwebtokens&logoColor=00C853">
   <img src="https://img.shields.io/badge/HTTP-0B0F0D?style=flat-square&logo=http&logoColor=00C853">
   <img src="https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
   <img src="https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
+</p>
+
+**APIs**
+<p>
   <img src="https://img.shields.io/badge/Chrome_Extension_API-0B0F0D?style=flat-square&logo=googlechrome&logoColor=00C853">
 </p>
 
@@ -39,6 +41,8 @@
 <p>
   <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=csharp&logoColor=00C853">
   <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
+  <img src="https://img.shields.io/badge/JavaScript-0B0F0D?style=flat-square&logo=javascript&logoColor=00C853">
+  <img src="https://img.shields.io/badge/TypeScript-0B0F0D?style=flat-square&logo=typescript&logoColor=00C853">
 </p>
 
 **Databases**
@@ -52,12 +56,16 @@
   <img src="https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
 
-**Tools & Deployment**
+**Tools**
 <p>
   <img src="https://img.shields.io/badge/Vite-0B0F0D?style=flat-square&logo=vite&logoColor=00C853">
   <img src="https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853">
-  <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853">
   <img src="https://img.shields.io/badge/npm-0B0F0D?style=flat-square&logo=npm&logoColor=00C853">
+</p>
+
+**Deployment**
+<p>
+  <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853">
   <img src="https://img.shields.io/badge/Vercel-0B0F0D?style=flat-square&logo=vercel&logoColor=00C853">
 </p>
 
