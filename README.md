@@ -35,11 +35,21 @@
   <img src="https://img.shields.io/badge/Chrome_Extension_API-0B0F0D?style=flat-square&logo=googlechrome&logoColor=00C853">
 </p>
 
-**Languages & Databases**
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=csharp&logoColor=00C853">
   <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
+</p>
+
+**Databases**
+<p>
   <img src="https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853">
+</p>
+
+**Desktop Development**
+<p>
+  <img src="https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
 
 **Tools & Deployment**
@@ -49,4 +59,13 @@
   <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853">
   <img src="https://img.shields.io/badge/npm-0B0F0D?style=flat-square&logo=npm&logoColor=00C853">
   <img src="https://img.shields.io/badge/Vercel-0B0F0D?style=flat-square&logo=vercel&logoColor=00C853">
+</p>
+
+**Process & Desktop Development**
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/EF_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Cassandra-0B0F0D?style=flat-square&logo=apachecassandra&logoColor=00C853">
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853">
 </p>
