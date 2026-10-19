@@ -39,7 +39,7 @@
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=csharp&logoColor=00C853">
+  <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
   <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
   <img src="https://img.shields.io/badge/JavaScript-0B0F0D?style=flat-square&logo=javascript&logoColor=00C853">
   <img src="https://img.shields.io/badge/TypeScript-0B0F0D?style=flat-square&logo=typescript&logoColor=00C853">
