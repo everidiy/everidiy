@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Vercel-0B0F0D?style=flat-square&logo=vercel&logoColor=00C853">
 </p>
 
-**Process & Desktop Development**
+**In Process**
 <p>
   <img src="https://img.shields.io/badge/ASP.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
   <img src="https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
