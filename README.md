@@ -72,6 +72,6 @@
   <img src="https://img.shields.io/badge/Vertica-0B0F0D?style=flat-square&logo=vertica&logoColor=00C853">
   <img src="https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853">
   <img src="https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Avalonia-0B0F0D?style=flat-square&logo=avalonia&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Avalonia-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
   <img src="https://img.shields.io/badge/.NET_MAUI-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
