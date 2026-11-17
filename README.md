@@ -34,75 +34,78 @@
 
 ## 🛠️ Tech Stack
 
+
 **Languages**
 
-<p>   
-  <img src="[https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/C%23-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853](https://img.shields.io/badge/SQL-0B0F0D?style=flat-square\&logo=mysql\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853">
 </p>
 
 **Backend Development**
 
-<p>   
-  <img src="[https://img.shields.io/badge/.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/.NET-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
+  <img src="https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
 
 **ORM & Data Access**
 
-<p>   
-  <img src="[https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
 
 **Databases**
 
-<p>   
-  <img src="[https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853](https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square\&logo=postgresql\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square&logo=sqlite&logoColor=00C853](https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square\&logo=sqlite\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853">
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853">
+  <img src="https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square&logo=sqlite&logoColor=00C853">
 </p>
 
 **Desktop Development**
 
-<p>   
-  <img src="[https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/WPF-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/XAML-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
 
 **Tools**
 
-<p>   
-  <img src="[https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853](https://img.shields.io/badge/Git-0B0F0D?style=flat-square\&logo=git\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853](https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square\&logo=github\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square&logo=visualstudio&logoColor=00C853](https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square\&logo=visualstudio\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square&logo=swagger&logoColor=00C853](https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square\&logo=swagger\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/Postman-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853">
+  <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square&logo=visualstudio&logoColor=00C853">
+  <img src="https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square&logo=swagger&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
 </p>
 
 **Currently Exploring**
 
-
-<p>   
-  <img src="[https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853](https://img.shields.io/badge/Redis-0B0F0D?style=flat-square\&logo=redis\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853](https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square\&logo=rabbitmq\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853](https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square\&logo=grpc\&logoColor=00C853)">   
-  <img src="[https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853](https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square\&logo=socketdotio\&logoColor=00C853)"> 
+<p>
+  <img src="https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853">
+  <img src="https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853">
+  <img src="https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853">
+  <img src="https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Avalonia-0B0F0D?style=flat-square&logo=avalonia&logoColor=00C853">
 </p>
+
 
 ---
 
 ## 📌 Projects
 
-| Project                  | Description                                                                       | Technologies                           |
-| ------------------------ | --------------------------------------------------------------------------------- | -------------------------------------- |
-| **WarehouseAPI**         | REST API для управления складскими товарами и категориями. Работа с БД через ORM. | C#, ASP.NET Core, EF Core, PostgreSQL  |
-| **TaskFlowSystem**       | Командный проект: desktop-приложение для управления задачами и Kanban-досками.    | C#, WPF, XAML, ASP.NET, PostgreSQL     |
-| **Monster Telegram Bot** | Telegram-приложение с системой монстров, пользовательскими данными и галереей.    | C#, ASP.NET Core, SQLite, Telegram API |
-| **Warehouse System**     | Система управления складом с реляционной базой данных.                            | C#, SQL Server                         |
+| Project | Description | Technologies |
+|---|---|---|
+| [**WarehouseAPI**](https://github.com/everidiy/WarehouseAPI) | REST API для управления складскими товарами и категориями. | C#, ASP.NET Core, EF Core, PostgreSQL |
+| [**TaskFlowSystem**](https://github.com/everidiy/TaskFlowSystem) | Командный проект: desktop-приложение для управления задачами и Kanban-досками. | C#, WPF, XAML, ASP.NET, PostgreSQL |
+| [**Monster App**](https://github.com/everidiy/MonsterEnergyCollectionApp_JustHobby) | Desktop-приложение для учёта и оценки энергетических напитков с локальным хранением данных. | C#, WPF, SQLite, Dapper |
+| [**Monster Telegram Bot**](https://github.com/everidiy/my_tg_app) | Telegram-приложение с системой монстров, пользовательскими данными и галереей. | C#, ASP.NET Core, SQLite, Telegram API |
 
 ---
 
