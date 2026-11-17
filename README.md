@@ -60,7 +60,19 @@
 </p>
 
 **In Process**
+**In Process**
 <p>
   <img src="https://img.shields.io/badge/Cassandra-0B0F0D?style=flat-square&logo=apachecassandra&logoColor=00C853">
   <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Go-0B0F0D?style=flat-square&logo=go&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Kafka-0B0F0D?style=flat-square&logo=apachekafka&logoColor=00C853">
+  <img src="https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853">
+  <img src="https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
+  <img src="https://img.shields.io/badge/ClickHouse-0B0F0D?style=flat-square&logo=clickhouse&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Vertica-0B0F0D?style=flat-square&logo=vertica&logoColor=00C853">
+  <img src="https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853">
+  <img src="https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853">
+  <img src="https://img.shields.io/badge/Avalonia-0B0F0D?style=flat-square&logo=avalonia&logoColor=00C853">
+  <img src="https://img.shields.io/badge/.NET_MAUI-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
 </p>
