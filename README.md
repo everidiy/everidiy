@@ -1,18 +1,18 @@
 # Hi, I'm everidiy 👋
 
-\<h3 align="center">Junior .NET Developer | C# | ASP.NET Core | SQL\</h3>
+<h3 align="center">Junior .NET Developer | C# | ASP.NET Core | SQL</h3>
 
-\<p align="center">
-&#x20; Разрабатываю приложения на C# и изучаю backend-разработку.
-&#x20; \<br>
-&#x20; Открыт к стажировкам и Junior-позициям.
-\</p>
+<p align="center">
+  Разрабатываю приложения на C# и изучаю backend-разработку.
+  <br>
+  Открыт к стажировкам и Junior-позициям.
+</p>
 
-\<p align="center">
-&#x20; \<a href="mailto\:davydovbogdan599\@gmail.com">Email\</a> •
-&#x20; \<a href="[https://t.me/everidiy](https://t.me/everidiy)">Telegram\</a> •
-&#x20; \<a href="[https://github.com/everidiy](https://github.com/everidiy)">GitHub\</a>
-\</p>
+<p align="center">
+  <a href="mailto:davydovbogdan599@gmail.com">Email</a> •
+  <a href="https://t.me/everidiy">Telegram</a> •
+  <a href="https://github.com/everidiy">GitHub</a>
+</p>
 
 ---
 
@@ -36,31 +36,62 @@
 
 **Languages**
 
-\<p>   \<img src="[https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/C%23-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853](https://img.shields.io/badge/SQL-0B0F0D?style=flat-square\&logo=mysql\&logoColor=00C853)"> \</p>
+<p>   
+  <img src="[https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/C%23-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853](https://img.shields.io/badge/SQL-0B0F0D?style=flat-square\&logo=mysql\&logoColor=00C853)"> 
+</p>
 
 **Backend Development**
 
-\<p>   \<img src="[https://img.shields.io/badge/.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/.NET-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> \</p>
+<p>   
+  <img src="[https://img.shields.io/badge/.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/.NET-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> 
+</p>
 
 **ORM & Data Access**
 
-\<p>   \<img src="[https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> \</p>
+<p>   
+  <img src="[https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> 
+</p>
 
 **Databases**
 
-\<p>   \<img src="[https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853](https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square\&logo=postgresql\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square&logo=sqlite&logoColor=00C853](https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square\&logo=sqlite\&logoColor=00C853)"> \</p>
+<p>   
+  <img src="[https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853](https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square\&logo=postgresql\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square&logo=sqlite&logoColor=00C853](https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square\&logo=sqlite\&logoColor=00C853)"> 
+</p>
 
 **Desktop Development**
 
-\<p>   \<img src="[https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/WPF-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/XAML-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> \</p>
+<p>   
+  <img src="[https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/WPF-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/XAML-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> 
+</p>
 
 **Tools**
 
-\<p>   \<img src="[https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853](https://img.shields.io/badge/Git-0B0F0D?style=flat-square\&logo=git\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853](https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square\&logo=github\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square&logo=visualstudio&logoColor=00C853](https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square\&logo=visualstudio\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square&logo=swagger&logoColor=00C853](https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square\&logo=swagger\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/Postman-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)"> \</p>
+<p>   
+  <img src="[https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853](https://img.shields.io/badge/Git-0B0F0D?style=flat-square\&logo=git\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853](https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square\&logo=github\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square&logo=visualstudio&logoColor=00C853](https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square\&logo=visualstudio\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square&logo=swagger&logoColor=00C853](https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square\&logo=swagger\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/Postman-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)"> 
+</p>
 
 **Currently Exploring**
 
-\<p>   \<img src="[https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853](https://img.shields.io/badge/Redis-0B0F0D?style=flat-square\&logo=redis\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853](https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square\&logo=rabbitmq\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853](https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square\&logo=grpc\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853](https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square\&logo=socketdotio\&logoColor=00C853)"> \</p>
+
+<p>   
+  <img src="[https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853](https://img.shields.io/badge/Redis-0B0F0D?style=flat-square\&logo=redis\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853](https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square\&logo=rabbitmq\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853](https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square\&logo=grpc\&logoColor=00C853)">   
+  <img src="[https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853](https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square\&logo=socketdotio\&logoColor=00C853)"> 
+</p>
 
 ---
 
@@ -91,6 +122,6 @@
 
 ---
 
-\<p align="center">
-&#x20; \<i>Learning by building. Improving through practice.\</i>
-\</p>
+<p align="center">
+&#x20; <i>Learning by building. Improving through practice.</i>
+</p>
