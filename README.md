@@ -60,7 +60,6 @@
 </p>
 
 **In Process**
-**In Process**
 <p>
   <img src="https://img.shields.io/badge/Cassandra-0B0F0D?style=flat-square&logo=apachecassandra&logoColor=00C853">
   <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
