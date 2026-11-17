@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:davydovbogdan599@gmail.com">Email</a> •
   <a href="https://t.me/everidiy">Telegram</a> •
-  <a href="https://github.com/everidiy">GitHub</a>
+  <a href="https://t.me/webcorepub">Channel</a>
 </p>
 
 ---
