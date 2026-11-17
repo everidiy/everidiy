@@ -1,74 +1,96 @@
 # Hi, I'm everidiy 👋
 
-### Contact
+\<h3 align="center">Junior .NET Developer | C# | ASP.NET Core | SQL\</h3>
 
-<p align="left">
-  <a href="mailto:davydovbogdan599@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F0D?style=flat-square&logo=gmail&logoColor=00C853" alt="Email"></a>
-  <a href="https://t.me/everidiy"><img src="https://img.shields.io/badge/Telegram-0B0F0D?style=flat-square&logo=telegram&logoColor=00C853" alt="Telegram"></a>
-  <a href="https://t.me/webcorepub"><img src="https://img.shields.io/badge/Channel-0B0F0D?style=flat-square&logo=telegram&logoColor=00C853" alt="Telegram Channel"></a>
-</p>
+\<p align="center">
+&#x20; Разрабатываю приложения на C# и изучаю backend-разработку.
+&#x20; \<br>
+&#x20; Открыт к стажировкам и Junior-позициям.
+\</p>
 
-### Tech Stack
+\<p align="center">
+&#x20; \<a href="mailto\:davydovbogdan599\@gmail.com">Email\</a> •
+&#x20; \<a href="[https://t.me/everidiy](https://t.me/everidiy)">Telegram\</a> •
+&#x20; \<a href="[https://github.com/everidiy](https://github.com/everidiy)">GitHub\</a>
+\</p>
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/JWT-0B0F0D?style=flat-square&logo=jsonwebtokens&logoColor=00C853">
-  <img src="https://img.shields.io/badge/HTTP-0B0F0D?style=flat-square&logo=http&logoColor=00C853">
-  <img src="https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
-  <img src="https://img.shields.io/badge/ASP.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-  <img src="https://img.shields.io/badge/ASP.NET_Core_Web_API-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-</p>
+---
+
+## 👨‍💻 About Me
+
+Студент IT-колледжа по специальности «Информационные системы и программирование».
+
+Основное направление — C#/.NET и backend-разработка. Интересуюсь созданием серверных приложений, проектированием баз данных и взаимодействием между клиентской и серверной частями.
+
+Имею опыт разработки самостоятельных и командных проектов: от проектирования структуры базы данных до реализации API и пользовательского интерфейса.
+
+Предпочитаю практическую разработку, изучение новых технологий через собственные проекты и решение реальных задач.
+
+- 🎯 Направление: .NET Backend Development
+- 💻 Основной язык: C#
+- 🗄️ Работа с реляционными базами данных
+- 🤝 Опыт командной разработки
+- 🚀 Ищу возможность начать профессиональную карьеру в IT
+
+## 🛠️ Tech Stack
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-</p>
 
-**ORM**
-<p>
-  <img src="https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-  <img src="https://img.shields.io/badge/EF_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-</p>
+\<p>   \<img src="[https://img.shields.io/badge/C%23-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/C%23-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853](https://img.shields.io/badge/SQL-0B0F0D?style=flat-square\&logo=mysql\&logoColor=00C853)"> \</p>
+
+**Backend Development**
+
+\<p>   \<img src="[https://img.shields.io/badge/.NET-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/.NET-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/ASP.NET_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/REST_API-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> \</p>
+
+**ORM & Data Access**
+
+\<p>   \<img src="[https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Entity_Framework_Core-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/Dapper-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> \</p>
 
 **Databases**
-<p>
-  <img src="https://img.shields.io/badge/SQL-0B0F0D?style=flat-square&logo=mysql&logoColor=00C853">
-  <img src="https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853">
-  <img src="https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853">
-  <img src="https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square&logo=sqlite&logoColor=00C853">
-</p>
+
+\<p>   \<img src="[https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SQL_Server-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square&logo=postgresql&logoColor=00C853](https://img.shields.io/badge/PostgreSQL-0B0F0D?style=flat-square\&logo=postgresql\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square&logo=sqlite&logoColor=00C853](https://img.shields.io/badge/SQLite-0B0F0D?style=flat-square\&logo=sqlite\&logoColor=00C853)"> \</p>
 
 **Desktop Development**
-<p>
-  <img src="https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-  <img src="https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-</p>
+
+\<p>   \<img src="[https://img.shields.io/badge/WPF-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/WPF-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/XAML-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853](https://img.shields.io/badge/XAML-0B0F0D?style=flat-square\&logo=dotnet\&logoColor=00C853)"> \</p>
 
 **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square&logo=swagger&logoColor=00C853">
-  <img src="https://img.shields.io/badge/JSON-0B0F0D?style=flat-square&logo=json&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853">
-  <img src="https://img.shields.io/badge/npm-0B0F0D?style=flat-square&logo=npm&logoColor=00C853">
-</p>
 
-**Deployment**
-<p>
-  <img src="https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Vercel-0B0F0D?style=flat-square&logo=vercel&logoColor=00C853">
-</p>
+\<p>   \<img src="[https://img.shields.io/badge/Git-0B0F0D?style=flat-square&logo=git&logoColor=00C853](https://img.shields.io/badge/Git-0B0F0D?style=flat-square\&logo=git\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square&logo=github&logoColor=00C853](https://img.shields.io/badge/GitHub-0B0F0D?style=flat-square\&logo=github\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square&logo=visualstudio&logoColor=00C853](https://img.shields.io/badge/Visual_Studio-0B0F0D?style=flat-square\&logo=visualstudio\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square&logo=microsoftsqlserver&logoColor=00C853](https://img.shields.io/badge/SSMS-0B0F0D?style=flat-square\&logo=microsoftsqlserver\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square&logo=swagger&logoColor=00C853](https://img.shields.io/badge/Swagger-0B0F0D?style=flat-square\&logo=swagger\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/Postman-0B0F0D?style=flat-square&logo=postman&logoColor=00C853](https://img.shields.io/badge/Postman-0B0F0D?style=flat-square\&logo=postman\&logoColor=00C853)"> \</p>
 
-**In Process**
-<p>
-  <img src="https://img.shields.io/badge/Cassandra-0B0F0D?style=flat-square&logo=apachecassandra&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Python-0B0F0D?style=flat-square&logo=python&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Go-0B0F0D?style=flat-square&logo=go&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853">
-  <img src="https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853">
-  <img src="https://img.shields.io/badge/SignalR-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-  <img src="https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853">
-  <img src="https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853">
-  <img src="https://img.shields.io/badge/Avalonia-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-  <img src="https://img.shields.io/badge/.NET_MAUI-0B0F0D?style=flat-square&logo=dotnet&logoColor=00C853">
-</p>
+**Currently Exploring**
+
+\<p>   \<img src="[https://img.shields.io/badge/Redis-0B0F0D?style=flat-square&logo=redis&logoColor=00C853](https://img.shields.io/badge/Redis-0B0F0D?style=flat-square\&logo=redis\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square&logo=rabbitmq&logoColor=00C853](https://img.shields.io/badge/RabbitMQ-0B0F0D?style=flat-square\&logo=rabbitmq\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square&logo=grpc&logoColor=00C853](https://img.shields.io/badge/gRPC-0B0F0D?style=flat-square\&logo=grpc\&logoColor=00C853)">   \<img src="[https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square&logo=socketdotio&logoColor=00C853](https://img.shields.io/badge/WebSockets-0B0F0D?style=flat-square\&logo=socketdotio\&logoColor=00C853)"> \</p>
+
+---
+
+## 📌 Projects
+
+| Project                  | Description                                                                       | Technologies                           |
+| ------------------------ | --------------------------------------------------------------------------------- | -------------------------------------- |
+| **WarehouseAPI**         | REST API для управления складскими товарами и категориями. Работа с БД через ORM. | C#, ASP.NET Core, EF Core, PostgreSQL  |
+| **TaskFlowSystem**       | Командный проект: desktop-приложение для управления задачами и Kanban-досками.    | C#, WPF, XAML, ASP.NET, PostgreSQL     |
+| **Monster Telegram Bot** | Telegram-приложение с системой монстров, пользовательскими данными и галереей.    | C#, ASP.NET Core, SQLite, Telegram API |
+| **Warehouse System**     | Система управления складом с реляционной базой данных.                            | C#, SQL Server                         |
+
+---
+
+## 💼 Experience
+
+- **Personal Projects** — самостоятельная разработка приложений на C#/.NET, проектирование БД и интеграция API.
+- **Team Development** — совместная разработка TaskFlowSystem, работа с общим репозиторием и распределение задач.
+- **Freelance** — выполнение небольшого заказа по разработке веб-сайта.
+
+## 🎓 Education
+
+**IT College**
+
+Специальность: «Информационные системы и программирование».
+
+Текущий курс: 3-й.
+
+---
+
+\<p align="center">
+&#x20; \<i>Learning by building. Improving through practice.\</i>
+\</p>
